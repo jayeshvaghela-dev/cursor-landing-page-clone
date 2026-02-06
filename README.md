@@ -6,7 +6,7 @@
 
 A **modern, responsive landing page clone of Cursor**, built with **HTML5** and **CSS3 (Flexbox & Grid)**. This project recreates the core sections, layout, and user experience of the original site, focusing on responsiveness and modern design principles.
 
-**Live Demo:** [Cursor Page](#)
+**Live Demo:** [Cursor Page](https://jayeshvaghela-dev.github.io/cursor-landing-page-clone/)
 
 ---
 
