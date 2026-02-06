@@ -50,7 +50,7 @@ The landing page includes the following sections:
 
 ![Cursor Landing Page Screenshot](assets/images/home.png)
 
-Or see the **Live Demo**: [Cursor Page](#)
+Or see the **Live Demo**: [Cursor Page](https://jayeshvaghela-dev.github.io/cursor-landing-page-clone/)
 
 *Optional:* You can add a **GIF preview** here showing interactions or scrolling animations for better visual impact.
 
