@@ -52,8 +52,6 @@ The landing page includes the following sections:
 
 Or see the **Live Demo**: [Cursor Page](https://jayeshvaghela-dev.github.io/cursor-landing-page-clone/)
 
-*Optional:* You can add a **GIF preview** here showing interactions or scrolling animations for better visual impact.
-
 ---
 
 ## Technologies Used
